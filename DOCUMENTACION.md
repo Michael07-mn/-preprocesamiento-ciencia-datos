@@ -37,6 +37,16 @@ Las funcionalidades implementadas incluyen:
 - `git push origin --delete <rama>` → Eliminar una rama en GitHub.
 <img width="803" height="103" alt="delete_branch" src="https://github.com/user-attachments/assets/56440ced-7367-4599-a50b-b0c468595ba0" />
 
+--
+
+## Automatización: Explicación del workflow de GitHub Actions creado
+
+Se configuró un workflow en `.github/workflows/python-app.yml` que:
+- Instala dependencias desde `requirements.txt`.
+- Ejecuta pruebas con `pytest`.
+- Se activa en cada push o pull request hacia la rama `main`.
+
+📸 Evidencia: Captura de pantalla de la ejecución exitosa en la pestaña Actions.
 
 ---
 
