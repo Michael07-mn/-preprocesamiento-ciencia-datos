@@ -1,0 +1,11 @@
+# Evitar subir archivos innecesarios
+*.pyc
+
+# Ignorar carpetas caché
+__pycache__/
+
+# Ignorar configs de VSCode
+.vscode/
+
+# Ignorar archivos de configs locales
+.env
