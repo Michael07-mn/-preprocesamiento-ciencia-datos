@@ -46,7 +46,9 @@ Se configuró un workflow en `.github/workflows/python-app.yml` que:
 - Ejecuta pruebas con `pytest`.
 - Se activa en cada push o pull request hacia la rama `main`.
 
-📸 Evidencia: Captura de pantalla de la ejecución exitosa en la pestaña Actions.
+Ejecución exitosa en la pestaña Actions.
+<img width="1017" height="345" alt="image" src="https://github.com/user-attachments/assets/7bbd127d-f97a-4a0a-8e8e-5921cfbb4b2d" />
+
 
 ---
 
