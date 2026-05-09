@@ -1,7 +1,7 @@
 import pandas as pd
 
 def cargar_dataset(ruta):
-    """Carga un dataset desde un archivo CSV"""
+    """Carga un dataset desde un archivo .CSV"""
     return pd.read_csv(ruta)
 
 def limpiar_nulos(df):
