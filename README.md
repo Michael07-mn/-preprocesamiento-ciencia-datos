@@ -1,4 +1,4 @@
-# -Preprocesamiento-ciencia-datos
+# Preprocesamiento ciencia datos
 
 ## Objetivo:
 Aplicar de manera práctica el uso de Git y GitHub para la gestión de 
